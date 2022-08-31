@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Profile"
+        android:icon="@drawable/ic_profile"
+        android:id="@+id/main_menu_profile"/>
+
+    <item
+        android:title="Settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:id="@+id/main_menu_settings"/>
+
+    <item
+        android:title="About"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:id="@+id/main_menu_about_us"/>
+
+    <item
+        android:title="Verification"
+        android:icon="@drawable/ic_check_circle"
+        android:id="@+id/main_menu_verification"/>
+
+    <item
+        android:title="Sign Out"
+        android:icon="@drawable/ic_exit"
+        android:id="@+id/main_menu_signout"/>
+
+</menu>
